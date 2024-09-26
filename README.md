@@ -3,7 +3,7 @@ ____
 
 ## 🧪 Experiment for my Master's Thesis research
 
-This repository contains a set of Python programming exercises. Your task is to solve as many challenges as you can.
+This repository contains a set of Python programming exercises. Your task is to solve all given exercises.
 Please solve the challenges with Python programming language.
 
 
@@ -20,7 +20,6 @@ Please solve the challenges with Python programming language.
 - Don't use any external library (e.g., NumPy, Pandas, etc.) unless the exercise description specifies otherwise.
 - Don't change the function signature (name, arguments) in the template file as it will break the automated tests.
 - You are allowed to use any resources available to you (e.g., books, internet, ChatGPT, ...).
-
 
 
 ## 📁 Zip your Exercise folder
