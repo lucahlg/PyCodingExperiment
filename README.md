@@ -27,7 +27,7 @@ After you have solved the exercises, please zip your `Exercise` folder. You will
 
 ## 📋 Survey
 Now it's time to fill out the short survey. Please click on the link below to access the survey.
-[🔗 Link to the survey](https://google.com/)
+[🔗 Link to the survey](https://github.com/lucahlg/PyCodingExperiment/blob/main/survey/survey_draft.md)
 
 ## 📚 Credits
 The exercises in this experiment originate from the Exercism GitHub repository.
