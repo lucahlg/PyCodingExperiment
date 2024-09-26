@@ -55,6 +55,7 @@ def copy_exercises(selected_exercises, data_folder, output_folder):
     
     exercise_names = []
     
+    #iterate
     for i, exercise_name in enumerate(selected_exercises, start=1):
         # Define the source paths
         exercise_src_folder = os.path.join(data_folder, exercise_name)
