@@ -1,6 +1,7 @@
 **Fragebogen zu den Programmieraufgaben im Rahmen der Masterarbeit**
 
 **Anleitung:** Bitte beantworte die folgenden Fragen so ehrlich wie möglich. Die Antworten helfen mir, das Experiment und die Aufgaben besser zu verstehen.
+Das Ausfüllen des Fragebogens dauert ca. 5-10 Minuten. Die Angaben werden anonymisiert und vertraulich behandelt.
 
 ### Exercise Ordner hochladen
 Bitte nutze den File-Upload, um den Ordner mit deinen gelösten Aufgaben (`Exercises`) hochzuladen.
