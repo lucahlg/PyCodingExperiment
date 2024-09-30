@@ -8,7 +8,7 @@ Please solve the challenges with Python programming language.
 
 
 ## 🚀 Getting started
-1. Run the select_exercises.py file to generate 10 random exercises for you to solve. 
+1. Run the select_exercises.py file to generate 5 random exercises for you to solve. 
     - console command: `cd experiment` -> `python select_exercises.py` or open the `select_exercises.py` file and press the `Run` button in your IDE.
     - this will generate 10 folders within the `Exercise` folder with the exercises you need to solve.
 2. Solve the exercises in the generated folders.
@@ -23,11 +23,11 @@ Please solve the challenges with Python programming language.
 
 
 ## 📁 Zip your Exercise folder
-After you have solved the exercises, please zip your `Exercise` folder. You will be asked to submit this zip file in the survey.
+After you have solved the exercises, please zip your `Exercise` folder. You can use the `zip.py` script or use Windows/Mac built in tools to zip the folder. You will be asked to submit this zip file in the survey.
 
 ## 📋 Survey
 Now it's time to fill out the short survey. Please click on the link below to access the survey.
-[🔗 Link to the survey](https://github.com/lucahlg/PyCodingExperiment/blob/main/survey/survey_draft.md)
+[🔗 Link to the survey](https://survey.hdm-stuttgart.de/163574?lang=en)
 
 ## 📚 Credits
 The exercises in this experiment originate from the Exercism GitHub repository.
