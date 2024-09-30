@@ -25,7 +25,7 @@ Please solve the challenges with Python programming language.
 ## 🧾 Important notes:
 - You can use any Python standard library module if not specified otherwise in the exercise description.
 - Don't use any external library (e.g., NumPy, Pandas, etc.) unless the exercise description specifies otherwise.
-- Don't change the function signature (name, arguments) in the template file as it will break the automated tests.
+- Don't change the function signature (name, arguments) in the template file as it will break the evaluation with automated tests.
 - You are allowed to use any resources available to you (e.g., books, internet, ChatGPT, ...).
 
 
