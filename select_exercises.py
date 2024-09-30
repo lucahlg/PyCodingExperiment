@@ -9,7 +9,7 @@ data_folder = ".data"
 # Path to the folder where selected exercises will be copied
 output_folder = "Exercise"
 # Number of exercises to select
-n = 10
+n = 5
 # Log file path
 log_file_path = os.path.join(output_folder, "generation_log.txt")
 # Participation ID file path
