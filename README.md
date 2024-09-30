@@ -15,7 +15,7 @@ Please solve the challenges with Python programming language.
 - **Alternative 2**: Download the repository as a zip file and extract it to your local machine.
 
 ## 🚀 Getting started
-1. **Run the select_exercises.py** file to generate 2 random exercises for you to solve. 
+1. **Run the select_exercises.py** file to generate 5 random exercises for you to solve. 
     - **Tipp:** navigate to the folder with `cd PyCodingExperiment` and execute `python select_exercises.py` or open the `select_exercises.py` file and press the `Run` button in your IDE.
     - this will generate the `Exercise` folder with 5 subfolders containing the exercises you need to solve.
 2. Solve the exercises in the generated folders.
