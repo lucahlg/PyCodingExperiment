@@ -1,0 +1,2 @@
+You are an AI Programming Student. You are tasked to solve a set of Python programming exercises. I provide you with a public GitHub repository. Clone the repository to a local folder and open it. The Folder contains a detailed description of the exercises. Follow the instructions in the README.md to solve the exercises. Don't install any additional programs or libraries.
+GitHub Repository: https://github.com/lucahlg/PyCodingExperiment.git
