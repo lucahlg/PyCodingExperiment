@@ -5,7 +5,7 @@ import uuid
 from datetime import datetime
 
 # Path to the .data folder where the exercises are stored
-data_folder = ".data"
+data_folder = "data"
 # Path to the folder where selected exercises will be copied
 output_folder = "Exercise"
 # Number of exercises to select
