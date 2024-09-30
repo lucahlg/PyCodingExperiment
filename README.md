@@ -6,6 +6,13 @@ ____
 This repository contains a set of Python programming exercises. Your task is to solve all given exercises.
 Please solve the challenges with Python programming language.
 
+## 📦 Clone Repository
+- Clone this repository to your local machine using VS Code `CTRL + SHIFT + P` type `Git: Clone` and paste the GitHub URL `https://github.com/lucahlg/PyCodingExperiment.git` 
+- **Alternative 1**: Use the following command in your terminal to clone the repository:
+    ```bash
+    git clone
+    ```
+- **Alternative 2**: Download the repository as a zip file and extract it to your local machine.
 
 ## 🚀 Getting started
 1. Run the select_exercises.py file to generate 5 random exercises for you to solve. 
