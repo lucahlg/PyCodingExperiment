@@ -11,7 +11,7 @@ data_folder = "data"
 # Path to the folder where selected exercises will be copied
 output_folder = "Exercise"
 # Number of exercises to select
-n = 5
+n = 2
 # Log file path (now using .json extension)
 log_file_path = os.path.join(output_folder, "generation_log.json")
 # Participation ID file path
