@@ -86,7 +86,6 @@ def copy_exercises(selected_exercises, data_folder, output_folder, seed):
         exercise_file_src_underscore = os.path.join(exercise_src_folder, f"{exercise_name.replace('-', '_')}.py")
 
         instruction_src_folder = os.path.join(exercise_src_folder, ".docs")
-        instruction_file_src = os.path.join(instruction_src_folder, "instructions.md")
 
         # Define the destination paths
         task_folder_name = f"Task_{i:02}_{exercise_name.replace('-', '_')}"
@@ -102,11 +101,14 @@ def copy_exercises(selected_exercises, data_folder, output_folder, seed):
         else:
             print(f"Warning: Python file not found for exercise '{exercise_name}'")
 
-        # Copy and rename the instruction file
-        if os.path.exists(instruction_file_src):
-            new_instruction_name = f"{exercise_name.replace('-', '_')}_instruction.md"
-            instruction_file_dest = os.path.join(task_folder, new_instruction_name)
-            shutil.copy(instruction_file_src, instruction_file_dest)
+        # Copy and rename all .md files in the instruction folder
+        if os.path.exists(instruction_src_folder):
+            md_files = [f for f in os.listdir(instruction_src_folder) if f.endswith('.md')]
+            for md_file in md_files:
+                original_md_file_path = os.path.join(instruction_src_folder, md_file)
+                new_md_file_name = f"{exercise_name.replace('-', '_')}_{md_file}"
+                destination_md_file_path = os.path.join(task_folder, new_md_file_name)
+                shutil.copy(original_md_file_path, destination_md_file_path)
 
         exercise_names.append(exercise_name)
 
