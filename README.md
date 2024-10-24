@@ -21,14 +21,14 @@ Please solve the challenges with Python programming language.
 2. Solve the exercises in the generated folders.
     - The folder contains instructions (.md files) with the exercise description and a Python (.py) file with the exercise template.
     - the expected result has to be returned by the function using the `return` statement.
-3. Test your implementation by calling the function.
+3. Test your implementation.
 
 ## 🧾 Important notes:
-- You can use any Python standard library module if not specified otherwise in the exercise description.
-- Don't use any external library (e.g., NumPy, Pandas, etc.) unless the exercise description specifies otherwise.
 - Don't change the function signature (name, arguments) in the template file as it will break the evaluation with automated tests.
 - You are allowed to use any resources available to you (e.g., books, internet, ChatGPT, Github Copilot ...).
 - be careful with code outside the function, it will be executed during the evaluation. For example, avoid user input or delete it after testing.
+- You can use any Python standard library module if not specified otherwise in the exercise description.
+- Don't use any external library (e.g., NumPy, Pandas, etc.) unless the exercise description specifies otherwise.
 
 
 ## 📁 Zip your Exercise folder
