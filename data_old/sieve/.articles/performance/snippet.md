@@ -1,8 +1,0 @@
-def primes(number):
-    not_prime = set()
-    primes = []
-    for num in range(2, number+1):
-        if num not in not_prime:
-            primes.append(num)
-            not_prime.update(range (num*num, number+1, num))
-    return primes

@@ -1,4 +1,0 @@
-from calendar import isleap
-
-def leap_year(year):
-    return isleap(year)
